@@ -1,3 +1,7 @@
 hdgiasdajkdgbsajk
+<<<<<<< Updated upstream
 
 Edit from remote 
+=======
+another update from local machine :bagku01
+>>>>>>> Stashed changes
